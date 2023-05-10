@@ -1,5 +1,5 @@
-# Created by https://www.toptal.com/developers/gitignore/api/c++,qt,clion
-# Edit at https://www.toptal.com/developers/gitignore?templates=c++,qt,clion
+# Created by https://www.toptal.com/developers/gitignore/api/clion,c++,qt
+# Edit at https://www.toptal.com/developers/gitignore?templates=clion,c++,qt
 
 ### C++ ###
 # Prerequisites
@@ -195,4 +195,4 @@ compile_commands.json
 
 *_qmlcache.qrc
 
-# End of https://www.toptal.com/developers/gitignore/api/c++,qt,clion
+# End of https://www.toptal.com/developers/gitignore/api/clion,c++,qt
